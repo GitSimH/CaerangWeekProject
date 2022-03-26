@@ -11,7 +11,7 @@ public class Week1_4
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        
+       
         int d = sc.nextInt();
         
         c += d;

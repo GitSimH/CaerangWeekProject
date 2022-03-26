@@ -1,8 +1,11 @@
 import java.util.Scanner;
 
-public class Week1_1{
+//Eclipse IDE 환경에서 코딩 후 VSCODE로 옮겨서 빌드 안 됩니다.
+public class Week1_1
+{
  
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		Scanner in = new Scanner(System.in);
  
 		int A = in.nextInt();
